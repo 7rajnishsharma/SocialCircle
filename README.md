@@ -66,19 +66,19 @@ npm start
 
 ## Visuals  
 ### Login  
-![Login Page](path/to/login-screenshot.png)  
+![login page](https://github.com/user-attachments/assets/afec92a5-ce0c-4b89-9e61-a492d2cc2a0d)
 
 ### Signup  
-![Signup Page](path/to/signup-screenshot.png)  
+![register page](https://github.com/user-attachments/assets/7a919098-c882-43c2-aa73-75b96124e222)
 
 ### Search User  
-![Search User](path/to/search-user-screenshot.png)  
+![search user](https://github.com/user-attachments/assets/dd94f8b4-69f4-4797-8a49-632a14fc30a1)
 
 ### Send Friend Request  
-![Send Friend Request](path/to/send-friend-request-screenshot.png)  
+![send request](https://github.com/user-attachments/assets/02a3075d-23fb-4aa0-8422-9b18f54b82ad)
 
 ### Database  
-![Database Structure](path/to/database-screenshot.png)  
+![databse](https://github.com/user-attachments/assets/038d926d-fb67-41aa-9b66-8f1bc8c9cfd9)
 
 ## Contributing  
 Contributions are welcome! Please open an issue or submit a pull request for improvements.  
