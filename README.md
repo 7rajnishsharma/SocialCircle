@@ -88,5 +88,5 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 - [React](https://reactjs.org/) for building the user interface.  
 - [Tailwind CSS](https://tailwindcss.com/) for styling.  
 - [Node.js](https://nodejs.org/) and [Express.js](https://expressjs.com/) for the backend.  
-- [MongoDB](https://www.mongodb.com/) for database management.  
-```  
+- [MongoDB](https://www.mongodb.com/) for database management.
+  
